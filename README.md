@@ -4,15 +4,20 @@
 
 Virtual hub on Velocity proxy, built with LimboAPI.
 
-## Features
+## Features: 
 
 ---
 
  - Fully virtual hub on Velocity, without the need to create a separate server.
  - Configurable custom commands, NPCs, menus, holograms, boss bars, sidebar etc...
- - Supported client versions: 1.8 - 1.20.1.
+ - Supported client versions: 1.8 - 1.20.4.
  - Structure/MCEdit world formats supported.
  - and more...
+
+## Features added by LimboHubPlus
+ - Custom items (don't work on 1.20.2-1.20.4)
+ - Fix kick from server
+ - some code changes...
 
 ## Commands and permissions
 
